@@ -4,7 +4,7 @@
 
 ![photo_2022-12-01_20-09-39](https://user-images.githubusercontent.com/116448008/205088168-bdc1d2b9-1b80-400f-a913-4c7286251f53.jpg)
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=About+me+)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=About+me+😉)](https://git.io/typing-svg)
 
 
 - wach anime until 5 am           
