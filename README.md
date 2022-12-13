@@ -11,3 +11,4 @@ _and write cod_
 
 <img src="https://habrastorage.org/getpro/habr/upload_files/5ff/bcb/03a/5ffbcb03abb1ccfaa54a6c2055e0fe58.gif" width="1023" height="220" data-src="https://habrastorage.org/getpro/habr/upload_files/5ff/bcb/03a/5ffbcb03abb1ccfaa54a6c2055e0fe58.gif">
 
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=planswallker)](https://github.com/anuraghazra/github-readme-stats)
